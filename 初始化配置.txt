@@ -1,0 +1,8 @@
+1.设置用户名
+git config --global user.name 'Hamptonyoung-LMT'
+
+2.设置用户名邮箱
+git config --global user.email '447181195@qq.com'
+
+3.查看设置
+git config --list 
